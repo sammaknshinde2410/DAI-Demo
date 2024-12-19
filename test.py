@@ -1,3 +1,5 @@
-Another random file.
-This is file 3.
-This is random file for testing.
+def multiply(a,b):
+	result = a * b
+	return result
+
+multiply(5,6)
